@@ -1,0 +1,98 @@
+\header
+title: Nešpor obecný
+
+\score
+office-part: antiphon
+folio: 482r
+editorial-mode: 7
+editorial-differentia: a
+c4
+f f gh g fe df ed cc
+f3
+fd f hf g f e ee ::
+g g h g f e dd ::
+Ře -- kl jest Pán k_Pá -- nu mé -- mu
+se -- diž na pra -- vi -- ci mé.
+
+\score
+office-part: antiphon
+folio: 483v
+editorial-mode: 4
+editorial-differentia: a
+c4
+d h gh h g e f g fg df ff
+f f cdf f e f g fe de ee ::
+h h g h i h g hh ::
+Věr -- náť jsou všec -- ka při -- ká -- zá -- ní je -- ho
+u -- tvr -- ze -- na až na vě -- ky vě -- kův.
+
+\score
+office-part: antiphon
+folio: 485r
+editorial-mode: 4
+editorial-differentia: h
+c3
+g h i g h f
+f g h i h g gg ::
+j i j l i gg ::
+V_při -- ká -- zá -- ní je -- ho
+chti -- vý bu -- de ná -- ram -- ně.
+
+\score
+office-part: antiphon
+folio: 486r
+editorial-mode: 7
+editorial-differentia: a
+c3
+i i h h ij i
+hg f g f g d cd dd ::
+i ij i h g ff ::
+Bu -- diž jmé -- no Pá -- ně
+po -- žeh -- ná -- no až na -- vě -- ky.
+
+\score
+office-part: antiphon
+folio: 487r
+editorial-mode: 8
+editorial-differentia: G
+c3
+h hg f ef
+e d e f gxg fe de ee ::
+h h g h f ee ::
+Dom Ja -- ko -- buov
+vy -- šel z_li -- du u -- krut -- né -- ho.
+
+% 489 hymnus Světla věčného Stvořiteli výborný
+
+\score
+office-part: antiphon
+folio: 491v
+editorial-mode: 2
+editorial-differentia: D
+rubric: Antifona na Magnificat
+f2 d c d d f g f e f g fe d d ,
+f f fe dc f f g h g h j h h ,
+h h g f f gf f ,
+f f e f g f e d cd d ::
+Rač po -- koj, Hos -- po -- di -- ne, dá -- ti ve dnech na -- šich,
+ne -- boť ne -- ní žá -- dné -- ho ji -- né -- ho nad te -- be,
+kdož by bo -- jo -- val za nás,
+je -- di -- ně ty sám, Pa -- ne Bo -- že náš.
+
+\score
+office-part: antiphon
+folio: 492r
+editorial-mode: 1
+editorial-differentia: g
+rubric: Jiná Antifona
+f4
+jj gh j j j j j j g h hh
+j i h g h g e f e dd
+g g g hj j g h g g ef g gf e ee ::
+Živť jsem já pra -- ví Pán Bůh vše -- mo -- hú -- cí
+ne -- chci smr -- ti člo -- vě -- ka hříš -- né -- ho
+a -- le ra -- dě -- ji a -- by se ob -- rá -- til a živ byl.
+
+f2
+f gh hh hj h h g f gh gg ::
+Ve -- le -- bí du -- še má Hos -- po -- di -- na
