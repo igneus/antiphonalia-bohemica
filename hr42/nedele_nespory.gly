@@ -2,7 +2,7 @@
 title: Nešpor obecný
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 482r
 editorial-mode: 7
 editorial-differentia: a
@@ -15,7 +15,7 @@ g g h g f e dd ::
 se -- diž na pra -- vi -- ci mé.
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 483v
 editorial-mode: 4
 editorial-differentia: a
@@ -27,7 +27,7 @@ Věr -- náť jsou všec -- ka při -- ká -- zá -- ní je -- ho
 u -- tvr -- ze -- na až na vě -- ky vě -- kův.
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 485r
 editorial-mode: 4
 editorial-differentia: h
@@ -39,7 +39,7 @@ V_při -- ká -- zá -- ní je -- ho
 chti -- vý bu -- de ná -- ram -- ně.
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 486r
 editorial-mode: 7
 editorial-differentia: a
@@ -51,7 +51,7 @@ Bu -- diž jmé -- no Pá -- ně
 po -- žeh -- ná -- no až na -- vě -- ky.
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 487r
 editorial-mode: 8
 editorial-differentia: G
@@ -65,7 +65,7 @@ vy -- šel z_li -- du u -- krut -- né -- ho.
 % 489 hymnus Světla věčného Stvořiteli výborný
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 491v
 editorial-mode: 2
 editorial-differentia: D
@@ -80,7 +80,7 @@ kdož by bo -- jo -- val za nás,
 je -- di -- ně ty sám, Pa -- ne Bo -- že náš.
 
 \score
-office-part: antiphon
+office-part: antiphona
 folio: 492r
 editorial-mode: 1
 editorial-differentia: g
