@@ -1,0 +1,302 @@
+\header
+title: [Narození Páně, matutinum]
+
+\score
+office-part: invitatorium
+folio: 493v
+editorial-mode: 4
+cb4
+d f g i g h i j i h g h h g h f e f g f gg
+d e f g g ghg h g f eff d e f g h g f h g h fee ::
+Kris -- tus moc -- ný Pán z_nej -- čist -- ší -- ho pří -- byt -- ku na svět ten -- to na -- ro -- zen jest nám
+Pro -- tož to -- ho všic -- kni jsou -- ce vděč -- ní poď -- te a kla -- něj -- me se Bo -- hu své -- mu.
+
+dhj h h h h h
+Poď -- me ve -- sel -- me se
+% celé notované venite Poďme veselme se v Hospodinu
+
+\score
+office-part: antiphona
+folio: 498r
+editorial-mode: 8
+editorial-differentia: G
+c3
+hgh f e h f h hh
+i ij hf h hih hh
+hih f h f e dd
+f hf h ih/gh f ff ::
+Hos -- po -- din řekl jest ke mně % "rzekl" jako jedna slabika (resp. nota) sic
+mi -- lý syn můj ty jsi
+já Bůh O -- tec tvůj dnes
+po -- ro -- dil jsem te -- be.
+
+\score
+office-part: antiphona
+folio: 499v; 501v
+editorial-mode: 8
+editorial-differentia: G
+rubric: Antifona na druhý Žalm
+c4
+g h g g ff
+f h j i h i j h f h h g gg ::
+Ja -- kož -- to že -- nich
+Hos -- po -- din vy -- chá -- ze -- je z_po -- ko -- jí -- ka své -- ho.
+j j i j h gg ::
+
+\score
+office-part: antiphona
+folio: 502r
+editorial-mode: ? % zvláštní žalmový nápěv, průběh melodie jako tonus V, ale recitace na d, takže první tercie v závěrečné kadenci je velká
+editorial-differentia: ?
+c4
+f h g h e f g f!g!h e fe d dd ,
+d f d f g h g f ff ,
+cdef gf ed dd ::
+Roz -- li -- ta jest mi -- lost tvá Bo -- že v_ús -- tech tvých
+pro -- tož po -- žeh -- nal te -- be Bůh tvůj
+až na -- vě -- ky.
+
+% 504r první responsoř "Dnešní den pamatujme všickni, kterak Nebeský král ... divně narodil se jest"
+
+% 506r druhý responsoř "Dnešní den k nám z nebeské výsosti pokoj pravý a věčný ... sstúpil jest"
+
+% 507v třetí responsoř "Slovo tělo učiněno jest"
+
+\score
+office-part: Te Deum
+folio: 509v
+% divisiones pridane pro prehlednost, odrazeji inicialy v rukopisu
+c4
+e g h h ij ihh
+e g h h h g hi ji hgg ::
+Tě Bo -- ha chvá -- lí -- me,
+tě Hos -- po -- di -- na vy -- zná -- vá -- me.
+
+j j j g h gg
+e g h h h g hi ji hgg ::
+Tě věč -- né -- ho Ot -- ce,
+všec -- ka ze -- mě v_poc -- ti -- vos -- ti má.
+
+j j j h i h hh
+e g h h h h h h h g hi ji hgg ::
+To -- bě všic -- kni an -- je -- lé,
+to -- bě ne -- be -- sa i vše -- li -- ja -- ké tvé mo -- ci.
+
+j j j j i h i h hh
+e g h h g h i ji hgg ::
+To -- bě che -- ru -- bín i se -- ra -- fín
+u -- sta -- vič -- ným hla -- sem vo -- la -- jí.
+
+efg hh hg/fe!fg hh ijk h i h h g h i ji!hg gg ::
+Sva -- tý Sva -- tý Sva -- tý Hos -- po -- din Pán Bůh zá -- stu -- pův!
+
+j j j j j i h i hh
+e g h h h g hi ji hgg ::
+Pl -- na jsou ne -- be -- sa i ze -- mě
+ve -- leb -- nos -- ti slá -- vy tvé Pa -- ne.
+
+j ji h i hh
+h h h g hi ji hgg ::
+Te -- beť pře -- slav -- ný
+a -- poš -- tol -- ský chvá -- lí sbor.
+
+j ji h i hh
+h h g hi ji hgg ::
+Ta -- ké pro -- roc -- ký
+chva -- li -- teb -- ný po -- čet.
+
+j j j j i h i hh
+h h g hi ji hgg ::
+Tě i sva -- tých mu -- čedl -- ní -- kův
+chvá -- lí skvou -- cí zá -- stup.
+
+j j j i h i hh
+e g h h h g h i ji hgg ::
+Tě po o -- kršl -- ku zem -- ském
+sva -- tá vy -- zná -- vá o -- bec -- ná cír -- kev.
+
+gh h h ij ih g hi ji hgg ::
+Ot -- ce ne -- smír -- né ve -- leb -- nos -- ti.
+
+j j j j j i h i hh
+h h g h i ji hgg ::
+Po -- cti -- vé -- ho tvé -- ho pra -- vé -- ho
+a je -- di -- né -- ho Sy -- na.
+
+g gh h ij ihh
+h h hg h i g hh ::
+Sva -- té -- ho ta -- ké
+u -- tě -- ši -- te -- le Du -- cha.
+
+h h hg h i g hh ::
+Tys král slav -- nos -- ti Kris -- te.
+
+h ij ihh
+h h hg h i g g hh ::
+Ty Ot -- cův
+od věč -- nos -- ti Syn věč -- ný jsi
+
+h h h h h h h h g h i j h hh
+e g h h h h hg h i g hh ::
+Ty k_vy -- svo -- bo -- ze -- ní chtě při -- jí -- ti člo -- vě -- čen -- ství,
+ne -- zhr -- dal jsi ži -- vo -- tem ctným pa -- nen -- ským.
+
+h h h h h g h i j h hh
+e g h h h h h h hg h i g hh ::
+Ty kdyžs pře -- mo -- hl všec -- ku ost -- rost smr -- ti,
+o -- te -- vřel jsi vě -- ří -- cím krá -- lov -- ství ne -- bes -- ké.
+
+h h h g h i j h hh
+h hg h i g hh ::
+Ty na pra -- vi -- ci Bo -- ží se -- díš,
+v_slav -- nos -- ti Ot -- co -- vě.
+
+h h ij ihh
+h h hg h i g hh ::
+Myť vě -- ří -- me,
+že máš sou -- dit při -- jí -- ti.
+
+h h h h h h h h g h ij h hh
+e g h h i h g h h i g ee ::
+Pro -- tož pro -- sí -- me spo -- mo -- zyž svým slu -- žeb -- ní -- kům,
+kte -- réž jsi svou pře -- dra -- hou kr -- ví vy -- kou -- pil.
+
+f3
+h hg f h gf g h i i i i i j h ih/g gg ::
+U -- kaž je věč -- nou s_svý -- mi sva -- tý -- mi slá -- vou da -- ro -- va -- ti.
+
+e fh h h f h gff
+e fh h h f h ij ih/g gg ::
+Spas lid svůj Hos -- po -- di -- ne,
+a po -- žeh -- nejž dě -- dic -- tví své -- mu.
+
+h h hg ff
+e fh h f i i i j h i gg ::
+A zpra -- vuj je,
+a po -- vyš svých všech věr -- ných až na -- vě -- ky.
+
+c4
+e g h h ij ihh
+h h hg h i g hh ::
+Po všec -- ky na -- še dny
+dě -- ku -- je -- me vždy to -- bě.
+
+h h h h h h h gh i j ihh
+h h h hg h i g hh ::
+A chvá -- lí -- me jmé -- no tvé až na -- vě -- ky,
+i ta -- ké na vě -- ky vě -- kův.
+
+h h h h h h g hi j h hh
+e g h h h hg h i g hh ::
+% roztomilý rým
+Rač Hos -- po -- di -- ne vždyc -- ky i v_ten -- to čas
+bez po -- skvrn hří -- chův o -- stří -- ha -- ti nás.
+
+h h h h g h i j h hh
+h hg h i g hh ::
+Smi -- luj se nad ná -- mi Hos -- po -- di -- ne,
+smi -- luj se nad ná -- mi.
+
+h h h h h h h h h g h i j h hh
+e g h h h g h i g ee ::
+Bu -- diž mi -- lo -- sr -- den -- ství tvé nad ná -- mi Hos -- po -- di -- ne,
+ja -- kož sme na -- dě -- ji mě -- li v_to -- bě.
+
+f f
+f3
+h f h ij igh gff
+e f h h h f h iji hg g!iji!g!h fe!fg!hih!ge fgg ::
+V_tě Hos -- po -- di -- ne ou -- fal sem,
+ne -- bu -- duť po -- ha -- nín až na -- vě -- ky vě -- kův.
+
+\score
+office-part: hymnus
+folio: 515v
+rubric: Hymna Veni Redemptor
+f3
+f f f e f h g ff ,
+f g h i h i i j jj ,
+j j i j i h i h g ff ,
+f e f h g h i g e f ff ::
+Přiď Vy -- ku -- pi -- te -- li lid -- ský
+u -- kaž nám ten po -- rod pa -- nen -- ský
+po -- div se všec -- ken svět plo -- du to -- mu
+toť ná -- le -- ží vše -- mo -- hú -- cí -- mu Bo -- hu.
+
+\score
+office-part: hymnus
+folio: 517r
+rubric: Hymna na Boží Narození
+f2
+d f f g h d e f g f e d ee
+g h j j j i h g h h j jj
+g g k i j i h g h f e g h hh
+d f f h h j h g e f g f ee ::
+Od slun -- ce vý -- ch -- odu Pá -- nem vy -- mě -- ře -- né -- ho
+do kon -- čin ze -- mě až i k_zá -- pa -- du je -- ho
+Je -- zu Kris -- ta vy -- zná -- vej -- me bý -- ti Bo -- hem pra -- vým
+z_Pan -- ny Ma -- ri -- e čis -- té na svět na -- ro -- ze -- ným.
+
+\score
+office-part: hymnus
+folio: 519r
+rubric: Hymna na Tři krále
+f2
+d f f g h d e f g f e d ee
+g h j j j i h g h h j jj
+g g k i j i h g h f e g hh
+d f f h h j h g e f g f ee ::
+He -- ro -- de -- se Kris -- tův ne -- pří -- te -- li u -- krut -- ný
+příš -- tí se je -- ho o -- bá -- váš bu -- deš smut -- ný
+ne -- ko -- ři -- stu -- jet se v_vě -- cech po -- mí -- je -- jí -- cích
+jest da -- ři -- te -- lem ne -- bes -- kých a spo -- lu zem -- ských
+
+\score
+office-part: antiphona
+folio: 521v
+editorial-mode: 8
+editorial-differentia: G
+rubric: Ant. na Magnificat
+c4
+f g h g g h g f g h g gg
+h j ij hf h hg gg
+j k j j ih j j i h g h hgg
+d f gh g g g hj g hg ff
+h f h j i j h g gg
+f f g g h h g gg ::
+Tři krá -- lo -- vé když sú u -- hlí -- da -- li hvěz -- du,
+řek -- li sou me -- zi se -- bou
+To -- to zna -- me -- ní krá -- le ve -- li -- ké -- ho jest,
+Pro -- tož poď -- me a hle -- dej -- me je -- ho,
+a o -- bě -- tuj -- me je -- mu da -- ry
+zla -- to ka -- did -- lo a mir -- ru.
+
+j j i j h gg ::
+E u o u a e
+
+\score
+office-part: hymnus
+folio: 522v
+rubric: Hymna v půstě Christe
+f3
+f f g h g f e f g h g ff
+g g g g f g e f h g f gg
+g i i i h g f g h g ff
+f g h g f e f g h g ff ::
+Kris -- te jenž si svět -- lo i den vše -- ho svě -- ta,
+tem -- nos -- ti noč -- ní zlé rač od nás za -- hna -- ti
+a svět -- lo prav -- dy čte -- ní jenž si ká -- zal
+bu -- diž nám te -- bou svět -- lem o -- sví -- ce -- no.
+
+\score
+office-part: hymnus
+folio: 524r
+rubric: Jiná hymna k témuž
+c4 d d f e f d f d cd dd
+d e f g g f e d d f e d f c a aa
+a c d f e d e f gg
+d d g e f e d f d cd dd ::
+U -- slyš pře -- do -- brý náš Stvo -- ři -- te -- li
+na -- še pros -- by s_plá -- čem ta -- ké s_ve -- li -- kú po -- ní -- že -- nos -- tí
+v_tom -- to ča -- su pos -- tu sva -- té -- ho
+ke dnům čty -- ři -- ce -- ti na -- ří -- ze -- né -- ho.
