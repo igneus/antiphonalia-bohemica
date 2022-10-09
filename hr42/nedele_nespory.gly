@@ -62,7 +62,19 @@ h h g h f ee ::
 Dom Ja -- ko -- buov
 vy -- šel z_li -- du u -- krut -- né -- ho.
 
-% 489 hymnus Světla věčného Stvořiteli výborný
+\score
+office-part: hymnus
+folio: 489v
+c4
+f e g h g f g h f e d ee
+d h h j h h h g h j g hh
+h h g h g f g f e dd
+f e g h g f g h f e d eee ::
+% Lucis Creator optime
+Svět -- la věč -- né -- ho Stvo -- ři -- te -- li vý -- bor -- ný,
+svět -- lo den -- ní ra -- čiž ří -- di -- ti v_čas mír -- ný,
+teh -- dáž jsi no -- vé svět -- lo způ -- so -- bil,
+když jsi ne -- be ze -- mi moud -- ros -- tí za -- lo -- žil.
 
 \score
 office-part: antiphona
