@@ -1,0 +1,112 @@
+\header
+title: Nešpor na Boží Narození
+
+\score
+office-part: antiphona
+folio: 526r
+editorial-mode: 1
+editorial-differentia: g
+f2
+f c d d h j h h h h h h gh ixi h gg
+f g g h fe d dd
+f f f f g f e c d d c d f f ff
+d f f g h f ff c f f e f dd ::
+Ty jsi po -- čá -- tek na -- še -- ho do ne -- be zno -- vu -- zro -- ze -- ní
+Je -- ží -- ši na -- ro -- ze -- ný,
+moud -- ros -- ti ne -- stvo -- ře -- ná Bo -- ha Ot -- ce a blesk sva -- tých,
+neb všec -- ky o -- svě -- cu -- ješ jas -- nos -- tí tvá -- ři své.
+
+\score
+office-part: antiphona
+folio: 526v
+editorial-mode: 7
+editorial-differentia: a
+c3
+g e g i h f h h h hh
+h h h g f h hh
+f i i h h h i j i h g h i hh
+f e f f h h e ee ::
+Vy -- kou -- pe -- ní po -- slal jest Hos -- po -- din
+li -- du své -- mu věr -- né -- mu,
+při -- ká -- zal a -- by na vě -- ky o -- stří -- ha -- li pil -- ně
+zá -- ko -- na je -- ho sva -- té -- ho.
+
+\score
+office-part: antiphona
+folio: 527v
+editorial-mode: 7
+editorial-differentia: a
+c3
+e i g i i j j i i j i i h i
+h h h g f g h i h g e ee
+d fh h h h g f h gf ef g f e de ee ::
+Vze -- šlo jest o -- bý -- va -- jí -- cím ve tmách stí -- nu smr -- ti
+svět -- lo o -- svě -- cu -- jí -- cí u -- přím -- né srd -- cem,
+mi -- lo -- srd -- ný a lí -- to -- sti -- vý a spra -- ved -- li -- vý Pán.
+
+\score
+office-part: antiphona
+folio: 528v
+editorial-mode: 4
+editorial-differentia: E % notated psalm tone really ends on e, while the antiphon on a
+c3
+e f h hi i h i j j i h i i ii
+f i g h f e f e d e fg h gf ef ff ::
+U Pá -- na Bo -- ha jes -- tiť štěd -- ré mi -- lo -- sr -- den -- ství,
+a ta -- ké pře -- vel -- mi hoj -- né u ně -- ho vy -- kou -- pe -- ní.
+
+\score
+office-part: antiphona
+folio: 529v
+% mode matching the melody, not the (uncommon) psalm tone, which I transcribed below
+editorial-mode: 8
+editorial-differentia: G
+c3
+e h he g h f e f e df
+h h h g h f f ee ::
+Z_o -- vot -- ce kme -- ne ži -- vo -- ta tvé -- ho
+po -- sa -- dím na sto -- li -- ci tvé.
+
+\score
+office-part: tonus psalmi
+folio: 529v
+c3
+h h h h h h h h i hh :
+h h h h h f gf e dd ::
+Roz -- po -- men se Pa -- ne na Da -- vi -- da
+i na vše -- li -- kou ti -- chost je -- ho.
+
+\score
+office-part: antiphona
+folio: 531v
+editorial-mode: 6
+editorial-differentia: F
+rubric: Antifona na Magnificat
+c4
+f gh h h g ixi h g fh hh
+f fg g g g g f gh ixih gf ff
+Dneš -- ní den Pán Kris -- tus na -- ro -- zen jest,
+Dneš -- ní den spa -- si -- tel u -- ká -- zal se jest.
+
+
+f gh h h h h g ixi h g fh hh
+f g i h g
+cb4
+g fh hh
+Dneš -- ní den na ze -- mi zpí -- va -- jí an -- dě -- lé,
+ve -- se -- lí se arch -- an -- dě -- lé,
+
+h j jkjIH h h g i h g fh f g ff
+c4
+gh g fe dc f f gh gf ed c d f f ff ::
+dneš -- ní den ra -- du -- jí se spra -- ved -- li -- ví řkou -- ce:
+Slá -- va na vý -- sos -- tech Pá -- nu Bo -- hu al -- le -- lu -- ja.
+
+h h f g h g ff ::
+
+% Na volném spodním okraji notovaný dodatek. Zánr ani liturgická funkce
+% mi zatím není jasná. Doxologie k responsoriu jinde v rukopisu?
+% Jedna z antifon svátku Nejsvětější Trojice?
+%
+% "Sláva 2C[?] Rovné a jedno jestiti tvé božstvím, v tvém božském bytu a věčném,
+% přede všemi ty jsi věky, i nyní i po všecky časy až na věky."
