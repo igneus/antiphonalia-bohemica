@@ -1,0 +1,143 @@
+\header
+title: Nešpor na den Vzkříšení S[yna?] B[ožího?]
+
+\markup
+Antifony odpovídají běžné pražské sadě antifon k velikonočním nešporám.
+Ale nešpory nemají velikonoční strukturní zvláštnosti
+(kyrie, graduale, aleluja, absence hymnu, průvod ke křtitelnici se svými zpěvy).
+
+\score
+office-part: antiphona
+folio: 549r
+editorial-mode: VII tr
+editorial-differentia: f % == VII c
+c4 f f gh gg
+g fe df ed!cc
+d d b d f de dc cc ::
+Al -- le -- lu -- ja,
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja.
+
+\score
+office-part: antiphona
+folio: 533r
+editorial-mode: IV
+editorial-differentia: E
+c4
+d h gh hh
+h g e f
+g fe df ff
+f f c!df f
+ef g fe dee ::
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja.
+
+\markup
+Antifona má charakteristiky normálního modu IV,
+ale nápěv psalmodie je notován jako IV transponovaný.
+Zajímavá differentia.
+
+\score
+office-part: tonus psalmi
+folio: 549v
+c3
+i i i i i i i i i i i h i j ii
+i i i i i i h i j i hii ::
+Chvá -- li -- ti tě bu -- du Hos -- po -- di -- ne v_ce -- lém srd -- ci svém,
+v_ra -- dě spra -- ved -- li -- vých a v_zhro -- máž -- dě -- ní.
+
+\markup
+Následující antifona je oproti odpovídající standardní pražské
+výrazně kratší a jednodušší.
+
+\score
+office-part: antiphona
+folio: 549v
+editorial-mode: 8
+editorial-differentia: G
+c4
+g fh j jgg
+i j h gf
+gh h g gg ::
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja.
+
+\score
+office-part: antiphona
+folio: 550r
+editorial-mode: VII tr
+editorial-differentia: d % == VII.a
+c4
+g f ghg f
+d ef d cb
+cd d c cc ::
+Al -- le -- lu -- ja,
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja.
+
+\score
+office-part: antiphona
+folio: 550v
+editorial-mode: per
+c2
+d ef g g
+h i h gf
+gh h g gg ::
+Al -- le -- lu -- ja,
+Al -- le -- lu -- ja
+Al -- le -- lu -- ja.
+
+\score
+office-part: tonus psalmi
+folio: 550v
+c4
+i!jk j i i i i j i h gg
+e h h h h i h e g fee ::
+Když vy -- chá -- zel Iz -- ra -- el z_E -- gyp -- ta,
+dům Já -- ko -- bův z_li -- du u -- krut -- né -- ho.
+
+\markup
+(mohl, vedls jako slabiky!)
+
+\score
+office-part: hymnus
+folio: 551r
+editorial-mode:
+rubric: Hymna
+f3
+f h f h g f f gg
+e g i h g f g gg
+j i j l j i i h i j i gg
+i g h i h g f e f h g f e f h g f ee
+g h i h g h f e ff ::
+Ži -- vot nej -- svě -- těj -- ší sva -- tých,
+poc -- ti -- vost an -- je -- lův Bo -- žích,
+ži -- vot všech do -- brých spo -- lu i mi -- lo -- srd -- ných,
+Kris -- te jenžs svou smr -- tí pře -- mohl jest slu -- hy své -- ho pod -- ve -- de -- né -- ho,
+při -- vedls do ži -- vo -- ta věč -- né -- ho.
+
+\score
+office-part: antiphona
+folio: 553r
+editorial-mode: 4 tr
+editorial-differentia: ?
+rubric: Antifona na Magnificat
+c3
+f h f e h h h g f g hi hi ff
+h hj i ih/gh f fi g h gf g hi g gg
+j i j i gh i f fi h hh
+hg!f g!hi/hg/gg j/ijI h!ijIHG/fgg ::
+Vstalť jest jis -- tě ja -- kož jest po -- vě -- děl Hos -- po -- din,
+pře -- dej -- deť vás do Ga -- li -- le -- e Al -- le -- lu -- ja,
+tam je -- ho u -- zří -- te Al -- le -- lu -- ja,
+Al -- le -- lu -- ja
+
+\markup
+Dělení slabik v závěrečném aleluja předchozí antifony nejisté.
+
+Následuje notovaný nápěv psalmodie, standardní IV.E.
