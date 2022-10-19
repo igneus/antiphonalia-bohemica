@@ -1,0 +1,92 @@
+\header
+title: Nešpor za dušičky počíná se tuto
+
+\markup
+Tady by patřil pravděpodobně f klíč do druhé mezery (ne na linku).
+
+\score
+office-part: antiphona
+folio: 254r
+editorial-mode: 2
+editorial-differentia: D
+cantus-id: 004293
+e g g g g g e g e ee :
+e e d e gf ee ::
+Lí -- bi -- tiť se bu -- du Hos -- po -- di -- ne
+v_kra -- lo -- vá -- ní ži -- vých.
+
+g g g de ee ::
+E u o u a e.
+
+\score
+office-part: antiphona
+folio: 254v
+editorial-mode:
+editorial-differentia:
+cantus-id: 003038
+c4 % ?
+g g gFE :
+e d e g e f!gh gf e gf ee ::
+Bě -- da mně
+ne -- bo byd -- lo mé pro -- dli -- lo se jest.
+
+\score
+office-part: antiphona
+folio: 255r
+editorial-mode:
+editorial-differentia:
+cantus-id: 002402
+f3 % ?
+fh f ff : f f ff f e f h h h e e :
+gh i/HG f hg hi hgg f ef ff ::
+Hos -- po -- din o -- střie -- há te -- be o -- de vše -- ho zlé -- ho
+o -- střie -- há du -- še tvé Hos -- po -- din.
+
+\score
+office-part: antiphona
+folio: 255v
+editorial-mode:
+editorial-differentia:
+cantus-id: 004899
+f3 % ?
+h h hg f h : h g h j i h gg i i :
+i ii fg ih gg ::
+Až ne -- pra -- vos -- ti za -- cho -- vá -- va -- ti bu -- deš Pa -- ne
+Pa -- ne kdo sne -- se.
+
+\markup
+Text následující antifony je hodně divný.
+Překladatel nerozuměl latinské předloze, nebo já nejsem s to rozluštit staročeský překlad.
+
+\score
+office-part: antiphona
+folio: 255v
+editorial-mode:
+editorial-differentia:
+cantus-id: 004159
+f3 % ?
+fh f : f f f ef h h e e : h ij hg ff ::
+A -- di -- ly ru -- ku tvú Hos -- po -- di -- ne ne -- po -- hr -- zey.
+
+\markup
+Následující by (podle diference, ne však podle finály)
+vypadala na VII. modus a c klíč by pak měl být v druhé mezeře.
+
+\score
+office-part: antiphona
+folio: 256r
+editorial-mode:
+editorial-differentia:
+cantus-id: 004115
+hfh!i h : h hih g ghg g gf ee f/gh fd :
+g g g g g g e g g
+g!hi hGF g ff ee ::
+Všec -- ko co dá mi O -- tec ke mně při -- jde
+a je -- ho kte -- rý při -- jde ke mně
+ne -- vy -- vrh -- nu ven.
+
+h i h g g fgg
+E u o u a e.
+
+\markup
+256v dole je text závěru nešpor (kyrie, orace).
