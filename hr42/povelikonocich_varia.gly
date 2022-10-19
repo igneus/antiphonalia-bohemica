@@ -1,0 +1,201 @@
+\header
+title: [Zpěvy pro dobu velikonoční a po Trojici]
+
+\score
+office-part: antiphona
+folio: 553v
+editorial-mode:
+editorial-differentia:
+rubric: Antifona za čas a za déšť. Domine Rex Deus
+c4
+h e g h g h j hh
+j j j h j hgh h gg
+Pa -- ne krá -- li všech ná -- ro -- dův,
+Bo -- že moc -- ný A -- bra -- há -- mův,
+
+j j ji h j hgh hgg
+g h j j i h g h g ee
+\l rač nám dá -- ti čas[déšť] jas[hojný] -- ný
+na všec -- ky ou -- ro -- dy k_nám na ze -- mi,
+
+e g h j h h j h hgg
+h j k j k j i j k j k kjj
+ať -- by po -- zna -- li všic -- kni li -- dé
+kte -- réž si stvo -- řil k_o -- bra -- zu mi -- los -- ti své,
+
+g hi j h hj h g hg ee
+e g h j k j i h i j i h i jhh
+j hg h!ij ihh ::
+že si ty vše -- mo -- hú -- cí Bůh sám
+všech ná -- ro -- dův vše -- ho svě -- ta nej -- vyš -- ší král a Pán
+Al -- le -- lu -- ja.
+
+g h j j j j j j j j j j
+j j j j k k jj
+h j j j j j j j j k j h j ig hi jhh ::
+Rač Hos -- po -- di -- ne ru -- ku svou o -- te -- vří -- ti,
+\l a ze -- mi o[obvlažiti] -- su -- ši -- ti,
+\l a z_tvé -- ho o[obvlažení] -- su -- še -- ní vy -- dá z_se -- be hoj -- nú ou -- ro -- du.
+
+g h ::
+Slá -- va etc.
+
+\markup
+Regina Coeli na Svatého Ducha:
+Dne padesátého poslal Pán Kristus Ducha svatého Alleluja
+
+(Protestantisující christologická přetextování a volně složené náhražky
+populárních mariánských antifon pro naše potřeby zatím nejsou relevantní.)
+
+\score
+office-part: hymnus
+folio: 536v
+editorial-mode:
+rubric: hymna Veni Creator Spiritus
+c3
+e f e d e f e h i hh
+h e f h i h i j ii
+h i j h g f e h ii
+e f h g h f e d
+f f gxg f e d e ee ::
+Přiď k_nám stvo -- ři -- te -- li Du -- še sva -- tý,
+mys -- li svých nav -- štěv z_své do -- bro -- ty,
+na -- pl -- niž srd -- ce na -- še smut -- ná,
+svou mi -- los -- tí kte -- rázs stvo -- řil
+so -- bě ne -- pro -- ti -- my -- sl -- ná.
+
+% 558r je pod hymnem pozdější rukou připsán veršík Loquebantur - latinský! - přitom 558v je tentýž česky
+
+\score
+office-part: hymnus
+folio: 558v
+editorial-mode:
+rubric: Hymna na den S. Trojice
+c4
+h g f e f d f h f g gg
+h g f e f d
+f f h f g gg
+h i j h g g f e
+f g d f f h fg gg ::
+Svět -- lo nej -- jas -- něj -- ší Tro -- ji -- ce sva -- tá,
+tři v_jed -- né pod -- sta -- tě,
+ta -- ké i v_jed -- no -- tě
+O nej -- moc -- něj -- ší jed -- no -- to
+ve třech o -- so -- bách za -- vřels to.
+
+\score
+office-part: hymnus
+folio: 560v
+editorial-mode:
+rubric: Hymna Dedicationis Templi
+f3
+g g f g h g f e f f h f g h g gg
+h f h i j j i j i h g f g gg
+Měs -- to no -- vé vo -- sla -- ve -- né Je -- ru -- za -- lém po -- svě -- ce -- né,
+vi -- dě -- ní po -- ko -- je pra -- vým jmé -- nem vy -- lo -- že -- né,
+g i j j i j l i j i h g f gg
+h f h i j j i j i h g f g gg
+kte -- réž v_svém za -- lo -- že -- ní na ne -- bi má vzdě -- lá -- ní
+v_ži -- vých srd -- cích Bo -- hu mi -- lých co v_dra -- hém ka -- me -- ní,
+g g f g h g f e f f h f g h g gg
+h f h i j j i j i h g f g gg ::
+an -- je -- ly du -- chy čis -- tý -- mi vo -- sa -- ze -- né své -- mu Pá -- nu,
+jakž -- to krás -- ná ne -- věs -- ta cho -- ti a mu -- ži své -- mu.
+
+\score
+office-part: hymnus
+folio: 564v
+editorial-mode:
+rubric: hymna na Devítník Dies absoluti % rubrika připsána pozdější rukou
+f2
+e f e d g h j h g g f e d e ee
+h h g f g g h g f e d f f ff
+f f g h g e d e f e dd
+c f f h g f e g d c f e d e ee ::
+Dno -- vé roz -- pus -- ti -- lí ro -- spus -- ti -- lým již po -- mí -- je -- jí,
+dno -- vé sva -- té -- ho po -- ká -- ní nám již na -- stá -- va -- jí,
+čas vzáct -- ný a stříd -- mý se při -- bli -- žu -- je,
+hle -- dej -- mež Pá -- na vším srd -- cem neb nad ná -- mi kra -- lu -- je.
+
+\score
+office-part: antiphona
+folio: 566v
+editorial-mode:
+c3
+e f e fg g g g f f h f e f fgf e ee
+e f gh i hg fg gg
+g i j j i i h g h i h gf e f g gg ::
+Ne -- při -- po -- mí -- nej nám Pa -- ne Bo -- že ne -- pra -- vos -- ti na -- še,
+a -- ni ro -- di -- čův na -- šich,
+a ne -- ra -- čiž nám od -- pla -- co -- va -- ti ved -- le na -- šich hří -- chův.
+
+\score
+office-part: antiphona
+folio: 567r
+editorial-mode:
+c4
+f g h j ji h j j i j k j i
+h g h j g f h g f e ee
+e f g f e d c d cc
+Se -- třiž a zruš Hos -- po -- di -- ne moc pře -- u -- krut -- nou
+ne -- přá -- tel cír -- kve tvé sva -- té křes -- ťan -- ské,
+a rač je dá -- ti v_roz -- ptý -- le -- ní
+c g h j j i j k j k l k j i ii
+j h g h g f ef dd
+e f g f g h g f e ee ::
+a -- by poz -- na -- li žeť ne -- má -- me žád -- né -- ho ji -- né -- ho,
+kte -- rýž by bo -- jo -- val za nás
+je -- di -- ně te -- be Pa -- ne Bo -- že náš.
+
+\markup
+Regina Coeli: Kristus z mrtvých vstal, jenž byl jest za nás na kříži skonal, Alleluja.
+
+\score
+office-part: hymnus
+folio: 569v
+editorial-mode:
+rubric: Hymna Ascensionis Christi
+f2
+g e f e d e f gg
+g h g f e d g fg gg
+Svá -- tek dneš -- ní vel -- mi slav -- ný
+všech -- něm křes -- ťa -- nům gest ra -- dost -- ný,
+f h g h i j i h g h hh
+i g f e f g f g gg
+po -- nou -- ka -- jíc na -- šich mys -- lí k_do -- bré -- mu,
+by -- chom vzda -- li čest Pá -- nu své -- mu
+g g j
+c3
+g h i i h i ii
+i j i h g f e e d e ee
+e e
+c4
+f e d g g f g gg ::
+Neb Kris -- tus Je -- žíš jsa Pán nej -- vyš -- ší
+vstou -- pil na svou sto -- li -- ci nej -- jas -- něj -- ší,
+ne -- bes -- kých ků -- rů Pán nej -- slav -- něj -- ší.
+
+\markup
+Regina Coeli Ascensionis Christi:
+Kristus Spasitel vstoupil na nebe náš vykupitel Alleluja.
+
+(Po notovaném začátku delší text, snad další strofa/y na tentýž nápěv.
+Na konci notovaný závěr, přičemž notace závěrečného aleluja
+vypadá na cantus fractus. Totéž i u předchozího Regina Coeli.)
+
+Následující antifona je psaná výrazně jinou rukou i stylem notace.
+
+\score
+office-part: antiphona
+folio: 573r
+editorial-mode:
+c3
+e e i i h h ij ii :
+h h ij i h hih hh :
+h fh h fh e de ee :
+h h f hih hh :
+h i j i h g f i hg f ff ::
+O spas nás sy -- nu Da -- vi -- dův
+po -- žeh -- na -- ný jenž při -- šel ve jmé -- nu Hos -- po -- di -- na,
+král iz -- ra -- el -- ský.
+O spas nás z_mi -- los -- ti tvé na vý -- sos -- ti.
