@@ -1,0 +1,82 @@
+\header
+title: [Nedělní nešpory]
+
+\markup
+Antifony jsou v prameni zapsány bez klíče.
+
+\score
+office-part: antiphona
+folio: 244r
+editorial-mode: 7
+editorial-differentia: d
+cantus-id: 002285
+c3
+h h h ij i hGF h gf d
+f d f hf gf ee ::
+Řekl jest Hos -- po -- din Pá -- nu mé -- mu
+seď na pra -- vi -- ci mé.
+
+i i j i h ii ::
+E u o u a e.
+
+\score
+office-part: antiphona
+folio: 244v
+editorial-mode: 4
+editorial-differentia: f?
+rubric: Fidelia % drobný přípisek pozdější rukou, odkazuje na latinskou předlohu
+cantus-id: 002865
+c4
+d h gh ;1 h g e f g fe df f
+f f c df f f ef g fe de ee ::
+Věr -- náť sú všec -- ka při -- ká -- zá -- ní je -- ho
+u -- tvr -- ze -- na sú až na vě -- ky vě -- kuov.
+
+h g h j g eff ::
+E u o u a e.
+
+\score
+office-part: antiphona
+folio: 245r
+editorial-mode: 4
+editorial-differentia: E?
+rubric: In mandatis
+cantus-id: 003251
+c4
+e f g e f de g f e d de ee ::
+V_při -- ká -- zá -- ní je -- ho chtiv bu -- de ná -- ram -- ně.
+
+h g h j ::
+
+\score
+office-part: antiphona
+folio: 246v
+editorial-mode: 7
+editorial-differentia: c
+rubric: Sit nomen
+cantus-id: 004971
+c3
+ii h hh : ij i h gf g f e de ee ::
+Buď jmé -- no Pá -- ně po -- chvá -- le -- no na -- vě -- ky.
+
+i i j i h ghh ::
+E u o u a e.
+
+\markup
+TODO U následující si nejsem jist, jak klíč umístit.
+Podle jiných výskytů dané antifony se zdá, že by c klíč
+měl ležet nejspíše snad v první mezeře (ne na lince!) shora.
+
+\gresetclef{invisible}
+
+\score
+office-part: antiphona
+folio: 247r
+editorial-mode:
+editorial-differentia:
+cantus-id: 002427
+ii ih gf gg : fe fg hg f ef ff ::
+Duom Ja -- ko -- buov z_li -- du u -- krut -- né -- ho.
+
+i i h i g fgg ::
+E u o u a e.
