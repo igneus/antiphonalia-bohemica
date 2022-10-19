@@ -5,6 +5,7 @@ title: [Narození Páně, matutinum]
 office-part: invitatorium
 folio: 493v
 editorial-mode: 4
+cantus-id: 001055
 cb4
 d f g i g h i j i h g h h g h f e f g f gg
 d e f g g ghg h g f eff d e f g h g f h g h fee ::
@@ -20,6 +21,7 @@ office-part: antiphona
 folio: 498r
 editorial-mode: 8
 editorial-differentia: G
+cantus-id: 002406
 c3
 hgh f e h f h hh
 i ij hf h hih hh
@@ -36,6 +38,7 @@ folio: 499v; 501v
 editorial-mode: 8
 editorial-differentia: G
 rubric: Antifona na druhý Žalm
+cantus-id: 005101
 c4
 g h g g ff
 f h j i h i j h f h h g gg ::
@@ -48,6 +51,7 @@ office-part: antiphona
 folio: 502r
 editorial-mode: ? % zvláštní žalmový nápěv, průběh melodie jako tonus V, ale recitace na d, takže první tercie v závěrečné kadenci je velká
 editorial-differentia: ?
+cantus-id: 002216
 c4
 f h g h e f g f!g!h e fe d dd ,
 d f d f g h g f ff ,
@@ -213,6 +217,7 @@ ne -- bu -- duť po -- ha -- nín až na -- vě -- ky vě -- kův.
 office-part: hymnus
 folio: 515v
 rubric: Hymna Veni Redemptor
+cantus-id: a06505
 f3
 f f f e f h g ff ,
 f g h i h i i j jj ,
@@ -227,6 +232,7 @@ toť ná -- le -- ží vše -- mo -- hú -- cí -- mu Bo -- hu.
 office-part: hymnus
 folio: 517r
 rubric: Hymna na Boží Narození
+cantus-id: 008248
 f2
 d f f g h d e f g f e d ee
 g h j j j i h g h h j jj
@@ -241,6 +247,7 @@ z_Pan -- ny Ma -- ri -- e čis -- té na svět na -- ro -- ze -- ným.
 office-part: hymnus
 folio: 519r
 rubric: Hymna na Tři krále
+cantus-id: 008248
 f2
 d f f g h d e f g f e d ee
 g h j j j i h g h h j jj
@@ -257,6 +264,7 @@ folio: 521v
 editorial-mode: 8
 editorial-differentia: G
 rubric: Ant. na Magnificat
+cantus-id: 003654
 c4
 f g h g g h g f g h g gg
 h j ij hf h hg gg
@@ -278,6 +286,7 @@ E u o u a e
 office-part: hymnus
 folio: 522v
 rubric: Hymna v půstě Christe
+cantus-id: 830070
 f3
 f f g h g f e f g h g ff
 g g g g f g e f h g f gg
@@ -292,6 +301,7 @@ bu -- diž nám te -- bou svět -- lem o -- sví -- ce -- no.
 office-part: hymnus
 folio: 524r
 rubric: Jiná hymna k témuž
+cantus-id: 008267
 c4 d d f e f d f d cd dd
 d e f g g f e d d f e d f c a aa
 a c d f e d e f gg

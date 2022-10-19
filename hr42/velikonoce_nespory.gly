@@ -109,6 +109,7 @@ office-part: hymnus
 folio: 551r
 editorial-mode:
 rubric: Hymna
+cantus-id: 008412
 f3
 f h f h g f f gg
 e g i h g f g gg
@@ -127,6 +128,7 @@ folio: 553r
 editorial-mode: 4 tr
 editorial-differentia: ?
 rubric: Antifona na Magnificat
+cantus-id: 005081
 c3
 f h f e h h h g f g hi hi ff
 h hj i ih/gh f fi g h gf g hi g gg

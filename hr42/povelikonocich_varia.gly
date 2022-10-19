@@ -7,6 +7,7 @@ folio: 553v
 editorial-mode:
 editorial-differentia:
 rubric: Antifona za čas a za déšť. Domine Rex Deus
+cantus-id: 002376
 c4
 h e g h g h j hh
 j j j h j hgh h gg
@@ -52,6 +53,7 @@ office-part: hymnus
 folio: 536v
 editorial-mode:
 rubric: hymna Veni Creator Spiritus
+cantus-id: 008407
 c3
 e f e d e f e h i hh
 h e f h i h i j ii
@@ -88,6 +90,7 @@ office-part: hymnus
 folio: 560v
 editorial-mode:
 rubric: Hymna Dedicationis Templi
+cantus-id: 008405
 f3
 g g f g h g f e f f h f g h g gg
 h f h i j j i j i h g f g gg
@@ -107,6 +110,7 @@ office-part: hymnus
 folio: 564v
 editorial-mode:
 rubric: hymna na Devítník Dies absoluti % rubrika připsána pozdější rukou
+cantus-id: 830103
 f2
 e f e d g h j h g g f e d e ee
 h h g f g g h g f e d f f ff
@@ -121,6 +125,7 @@ hle -- dej -- mež Pá -- na vším srd -- cem neb nad ná -- mi kra -- lu -- je
 office-part: antiphona
 folio: 566v
 editorial-mode:
+cantus-id: 003861
 c3
 e f e fg g g g f f h f e f fgf e ee
 e f gh i hg fg gg
@@ -133,6 +138,7 @@ a ne -- ra -- čiž nám od -- pla -- co -- va -- ti ved -- le na -- šich hří
 office-part: antiphona
 folio: 567r
 editorial-mode:
+cantus-id: 200870.1 % not sure, may not be exact match, but is similar enough
 c4
 f g h j ji h j j i j k j i
 h g h j g f h g f e ee
@@ -155,6 +161,7 @@ office-part: hymnus
 folio: 569v
 editorial-mode:
 rubric: Hymna Ascensionis Christi
+cantus-id: 008303
 f2
 g e f e d e f gg
 g h g f e d g fg gg

@@ -64,6 +64,7 @@ folio: 539r
 editorial-mode: 2
 editorial-differentia: D
 rubric: Antifona ad I. Psalmum
+cantus-id: 002599
 f3
 h h fh ef ff
 h i j i hi h gh i hg f ef ff
@@ -83,6 +84,7 @@ office-part: antiphona
 folio: 540v
 editorial-mode: 2
 editorial-differentia: D
+cantus-id: 004342
 f3
 e f h h h ij i i hi ji hi ff
 j j i h i hi f ij hg fh fee
@@ -110,6 +112,7 @@ office-part: antiphona
 folio: 541r
 editorial-mode: VIII tr?
 editorial-differentia: f
+cantus-id: 002572
 f3
 h h hih hg!hh h fh g f ee
 f d f h ff

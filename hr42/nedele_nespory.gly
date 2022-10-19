@@ -6,6 +6,7 @@ office-part: antiphona
 folio: 482r
 editorial-mode: 7
 editorial-differentia: a
+cantus-id: 002285
 c4
 f f gh g fe df ed cc
 f3
@@ -19,6 +20,7 @@ office-part: antiphona
 folio: 483v
 editorial-mode: 4
 editorial-differentia: a
+cantus-id: 002865
 c4
 d h gh h g e f g fg df ff
 f f cdf f e f g fe de ee ::
@@ -31,6 +33,7 @@ office-part: antiphona
 folio: 485r
 editorial-mode: 4
 editorial-differentia: h
+cantus-id: 003251
 c3
 g h i g h f
 f g h i h g gg ::
@@ -43,6 +46,7 @@ office-part: antiphona
 folio: 486r
 editorial-mode: 7
 editorial-differentia: a
+cantus-id: 004971
 c3
 i i h h ij i
 hg f g f g d cd dd ::
@@ -55,6 +59,7 @@ office-part: antiphona
 folio: 487r
 editorial-mode: 8
 editorial-differentia: G
+cantus-id: 002427
 c3
 h hg f ef
 e d e f gxg fe de ee ::
@@ -65,6 +70,7 @@ vy -- šel z_li -- du u -- krut -- né -- ho.
 \score
 office-part: hymnus
 folio: 489v
+cantus-id: 008337
 c4
 f e g h g f g h f e d ee
 d h h j h h h g h j g hh
@@ -82,6 +88,7 @@ folio: 491v
 editorial-mode: 2
 editorial-differentia: D
 rubric: Antifona na Magnificat
+cantus-id: 002090
 f2 d c d d f g f e f g fe d d ,
 f f fe dc f f g h g h j h h ,
 h h g f f gf f ,
@@ -97,6 +104,7 @@ folio: 492r
 editorial-mode: 1
 editorial-differentia: g
 rubric: Jiná Antifona
+cantus-id: 005481
 f4
 jj gh j j j j j j g h hh
 j i h g h g e f e dd

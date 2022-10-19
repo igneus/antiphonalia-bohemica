@@ -1,11 +1,22 @@
 \header
 title: Nešpor na Boží Narození
 
+\markup
+Pokud je správné mé určení následující antifony jako parafráze
+\emph{Tecum principium,} je to ukázka (v daném repertoárovém kontextu)
+hodně svobodného nepřekladu, kde se zachová melodie a vybrané obraty,
+ale celkový smysl textu je úplně jiný.
+Citát z žalmu 109/110 (který tvoří latinskou antifonu)
+je překladatelsky poměrně zapeklitý a není dobře přístupný pochopení
+lidového posluchače, tak s ním překladatel naložil svobodněji
+než s většinou ostatních textů.
+
 \score
 office-part: antiphona
 folio: 526r
 editorial-mode: 1
 editorial-differentia: g
+cantus-id: 005127 % lyrics are a very free creation diverging from the original a lot, but the tune and a few lexical anchors point to this Latin antiphon
 f2
 f c d d h j h h h h h h gh ixi h gg
 f g g h fe d dd
@@ -21,6 +32,7 @@ office-part: antiphona
 folio: 526v
 editorial-mode: 7
 editorial-differentia: a
+cantus-id: 004587
 c3
 g e g i h f h h h hh
 h h h g f h hh
@@ -36,6 +48,7 @@ office-part: antiphona
 folio: 527v
 editorial-mode: 7
 editorial-differentia: a
+cantus-id: 002794
 c3
 e i g i i j j i i j i i h i
 h h h g f g h i h g e ee
@@ -49,6 +62,7 @@ office-part: antiphona
 folio: 528v
 editorial-mode: 4
 editorial-differentia: E % notated psalm tone really ends on e, while the antiphon on a
+cantus-id: 001466
 c3
 e f h hi i h i j j i h i i ii
 f i g h f e f e d e fg h gf ef ff ::
@@ -61,6 +75,7 @@ folio: 529v
 % mode matching the melody, not the (uncommon) psalm tone, which I transcribed below
 editorial-mode: 8
 editorial-differentia: G
+cantus-id: 002106
 c3
 e h he g h f e f e df
 h h h g h f f ee ::
@@ -82,6 +97,7 @@ folio: 531v
 editorial-mode: 6
 editorial-differentia: F
 rubric: Antifona na Magnificat
+cantus-id: 003093
 c4
 f gh h h g ixi h g fh hh
 f fg g g g g f gh ixih gf ff
@@ -104,9 +120,23 @@ Slá -- va na vý -- sos -- tech Pá -- nu Bo -- hu al -- le -- lu -- ja.
 
 h h f g h g ff ::
 
-% Na volném spodním okraji notovaný dodatek. Zánr ani liturgická funkce
-% mi zatím není jasná. Doxologie k responsoriu jinde v rukopisu?
-% Jedna z antifon svátku Nejsvětější Trojice?
-%
-% "Sláva 2C[?] Rovné a jedno jestiti tvé božstvím, v tvém božském bytu a věčném,
-% přede všemi ty jsi věky, i nyní i po všecky časy až na věky."
+\markup
+Následující je neúhledný dodatek na volném okraji pozdější rukou
+a jiným stylem notace.
+
+\score
+office-part: antiphona
+folio: 532v
+editorial-mode:
+editorial-differentia:
+rubric: Sláva etc % co to tady znamená?
+cantus-id: 002948
+c4
+h h j h h g f g gh hh
+h h j k j i h hh
+h h g ixi g f gh hh
+f g hg f f f g f e f d cd dd ::
+Rov -- né a jed -- no jes -- tit<e>i</e> tvé bož -- ství,
+v_tvém bož -- ském by -- tu a věč -- ném,
+pře -- de vše -- mi ty jsi vě -- ky,
+i ny -- ní i po všec -- ky ča -- sy až na vě -- ky.
