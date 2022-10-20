@@ -1,0 +1,223 @@
+\header
+title: Začíná se Nešpor český / kterýž se v každou neděli zpívává / podlé pořádku starobylého.
+
+\score
+folio: 38r
+rubric: Deus in adiutorium meum intende.
+f3
+h h h h h h i h h h h f f!ghh ::
+Pa -- ne Bo -- že ku po -- mo -- ci mé rač při -- spě -- ti.
+
+\markup
+Domine ad adiuvandum etc.
+
+Pane aby nám spomohl /
+tět prosíme rač pospěšiti /
+Sláva Otci i Synu /
+i Duchu svatému.
+Jakož byla na počátku /
+i nyní i vždycky /
+i na věky věkuov Amen. / Alleluia.
+
+Místo Alleluia v postě.
+Chvála tobě Pane Králi náš věčné slávy.
+
+Toto též k libosti zpívaj.
+Obecní notou.
+
+Pane Bože všemohoucí /
+rač přispěti ku pomoci /
+srdce i ústa strojiti /
+bychom se mohli modliti.
+
+Sláva bud Otci našemu /
+Synu i Duchu svatému /
+jakož byla od počátku /
+tak bud až na věky věkuov AMEN.
+
+\section*{Antifony a žalmy.}
+
+(Autor po každém žalmu přidává písničku. Písničky netranskribujeme,
+ani neuvádíme incipitem.)
+
+\score
+office-part: antiphona
+folio: 38v
+mode: 7
+editorial-differentia: a
+cantus-id: 002285
+c3
+h ij i ii hg d hg!f ee :
+f d f hf gf e ee ::
+Po -- vě -- děl Pán Pá -- nu mé -- mu
+se -- diž na pra -- vi -- ci mé.
+
+i i j i h g ff ::
+
+\score
+office-part: antiphona
+folio: 39v
+mode: 4
+editorial-mode: 4 tr
+editorial-differentia: A
+cantus-id: 002865 % TODO pravděpodobné podle nápěvu a paralel, ale ověřit, text je dost jiný
+cb3
+e i hi i h f g h gf eg gg
+g g de g f g h gf ef ff ::
+Skut -- ko -- vé ru -- kou je -- ho prav -- da a soud
+věč -- ná všec -- ka při -- ká -- zá -- ní je -- ho.
+
+cb2
+g f g i f dd ::
+
+\score
+office-part: antiphona
+folio: 40v
+mode: 8
+editorial-differentia: G
+cantus-id: 003251
+f3
+g h i g h hh f g i i h g gg ::
+Při -- ká -- zá -- ní je -- ho chti -- vý bu -- de ná -- ram -- ně.
+
+h h g h f ee ::
+
+\score
+office-part: antiphona
+folio: 41v
+mode: 7
+editorial-differentia: a
+cantus-id: 004971
+c3
+i h h ij i h g f g f g e de ee ::
+Bu -- diž jmé -- no Pá -- ně po -- chvá -- le -- no až na -- vě -- ky.
+
+i i j i h g ff ::
+
+\score
+office-part: antiphona
+folio: 42r
+mode: 8
+editorial-differentia: G
+cantus-id: 002427
+c4
+j ji h g h g f g h i h h fg gg ::
+Po -- ko -- le -- ní Ja -- ko -- bo -- vo z_li -- du u -- krut -- né -- ho.
+
+j j i j h gg ::
+
+\markup
+Capitula na výběr;
+krátké písničky místo Deo gratias;
+dlouhé písničky místo responsoria;
+
+Hymna v postě Jesu quadragenarie:
+O Ježíši čtyřidcet dní /
+postu sám posvětiteli /
+jenžs pro spasení našich duší /
+sám jej utvrdil nejvyšší.
+...
+
+\score
+office-part: hymnus
+folio: 46v
+editorial-mode:
+rubric: Hymna na den Božího Vstoupení
+cantus-id: 008303
+c4
+g e fe d ef g :
+gh g f e dg g f g gg :
+Hod ten -- to jest slav -- ný
+věr -- ným křes -- ta -- nům vel -- mi váž -- ný
+f hg h i j i h gh hh i g fe fgf g gg :
+g g ji j k jk kk k lk ji h g g f g gg g g fe :
+d g g fg gg ::
+v_němž mysl jich má bý -- ti v_hoj -- nos -- ti du -- chov -- ních ra -- dos -- tí
+že Kris -- tus věr -- ný mír -- ce % ?
+do -- šel jest v_ne -- be -- sích sto -- li -- ce nej -- vyš -- ší
+on sám nej -- vět -- ší.
+
+\markup
+Hymna Veni creator Spiritus ...:
+Duše svatý jenžs stvořil nás /
+přid navštěv a přebývaj v nás /
+napln svou milostí shuory /
+srdce jenžs stvořil k své vůli.
+...
+
+Hymna O Lux Beata Trinitas:
+O věčné světlo Trojice svatá /
+první také i jedna podstata /
+již slunce schází horkostí /
+daj srdcím světlo milosti.
+...
+
+Hymna k libosti každého času ...:
+Kriste Vykupiteli náš žádúcí /
+tě vyznáváme že Bůh všemohúcí.
+...
+(předběžně spíš nevypadá jako překlad latinského hymnu, ale bude lepší to ověřit)
+
+Druhá hymna. Deus creator omnium ...:
+O Stvořiteli všech věcí /
+sám správce nebe nejvyšší /
+kterýs den světlem ozdobil /
+noci pokojnost způsobil.
+...
+
+Hymna Lucis creator optime:
+Stvořiteli světa Bože /
+nebe země též i moře /
+jenž své věrné osvěcuješ /
+Duchem svatým zapaluješ /
+račiž nás dnes osvítiti /
+světlem své božské milosti.
+
+% TODO Antifona před Magnifikat o S. Trojici:
+% Sláva věčná bud tobě etc. hledaj u hrobu na Velikou noc.
+
+\score
+office-part: antiphona
+folio: 49v
+editorial-mode:
+editorial-differentia:
+rubric: Antifona před Magnifikát
+cb3
+fg f e dc e dd :
+df h i h hh h i k k h ii h g f e f h g e f g f e f e d dd :
+d e f g h h f h g f e f g f ed dd ::
+Srd -- cem i ja -- zy -- kem
+pro -- sí -- me te -- be nej -- svě -- těj -- ší Ot -- če
+pro sva -- té jmé -- no Pá -- na Kris -- ta Sy -- na tvé -- ho mi -- lé -- ho
+ne -- vo -- pou -- štěj tvých věr -- ných mi -- lov -- ní -- kův zá -- ko -- na tvé -- ho.
+
+h h g h f ee ::
+Ve -- le -- bí du -- še
+
+\score
+office-part: antiphona
+folio: 50r
+editorial-mode: 1 tr
+editorial-differentia: d % == I g
+rubric: Antifona druhá
+c3
+f hh f fe h i hj jj :
+j i g h i hg f ff ::
+Dajž nám Pa -- ne po -- moc s_ne -- be
+by -- chom tě chvá -- li -- li hod -- ně.
+
+j j i h i j ii ::
+Magnificat.
+
+\markup
+Písnička;
+orace;
+několik Benedicamus Domino, písniček místo něj a obecnějších večerních písní.
+
+58v překlad antifony Salva nos z kompletáře (bez not):
+
+Spasiž nás Hospodine /
+když my bdíme /
+ostříhajž nás když my spíme /
+atbychom bděli v Pánu Kristu /
+a odpočívali v pokoji.
