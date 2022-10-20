@@ -1,0 +1,201 @@
+\header
+title: Vybrané vlastní zpěvy pro svátky
+
+\markup
+Notové záznamy v prameni postrádají klíče.
+
+(hymnus)
+Veni redemptor gencium
+
+Přid Vykupiteli lidský /
+a ukaž porod panenský /
+div se vešken svět plodu tomu:
+tot sluší samému milému Bohu. ...
+
+(hymnus)
+A solis ortus De nativitate Christi
+
+Od východu slunečného /
+až do končin světa toho /
+chvalmež Krista Hospodina /
+Marie panenky syna. ...
+
+(hymnus)
+Raduj se říše nebeská / a andělé chvalé Boha /
+pastuškám narození své zjevil /
+pastýř stvořitel všech věcí. ...
+
+(hymnus)
+O posvícení
+
+Chvalmež nyní Boha svého z posvícení města jeho. /
+Jeruzaléma svatého věčně pokojného /
+kteréž z počátku světa nyní i do skonání zdělává se /
+z předrahého živého kamení /
+v němž jest dílo všecko nové /
+Bohem samým připravené jakožto nevěsta okrášlená muži svému. ...
+
+
+(V následujícím nejsou vždy dobře patrné předěly neum náležejících
+jednotlivým slabikám a někdy ani výška tonů.)
+
+\score
+office-part: hymnus
+folio: 260r
+editorial-mode:
+editorial-differentia:
+rubric: Corus nove Jerusalem
+cantus-id: ah50215
+e fg gf e de f e dc d fED ef :
+e/dc g h j ijIHG h j ijIHG :
+ji/hg h g gFED e!fg f e d :
+h g h/ijIhg fg h g gFED e!fg ecd ee :
+Sbo -- ro -- vé no -- vé -- ho Je -- ru -- za -- lé -- ma
+no -- vé pies -- nič -- ky zpie -- va -- jí
+Pá -- nu Kris -- tu se ra -- du -- jí
+ctí -- ce hod slav -- ný ve -- li -- ko -- noč -- ně.
+
+\markup
+Responsoř o vzkříšení Božím Surrexit Cristus:
+Vstal jesti Kristus a osvětil lidu svému...
+
+Respons.:
+Jděte po okršku všeho světa...
+
+(responsorium)
+Ukázali jsú se apostolům rozdělení jazykové...
+
+\score
+office-part: hymnus
+folio: 264r
+editorial-mode:
+cantus-id: 008303
+g e fe de f g :
+gh gf edg g fg g :
+f hg h!iji h gh h :
+i g fe fgf g g :
+g gji jk k jk k klk ji h g g fg g :
+g g hg f i i hi ihh ::
+Hod slav -- ný ny -- něj -- ší
+s_ve -- li -- kú ra -- dos -- tí
+pu -- die srd -- ce lid -- ská
+by pís -- ně zpie -- va -- li
+neb Kris -- tus vstú -- pil jest na sto -- li -- ci vy -- so -- kú
+ne -- bes -- ký mi -- lo -- srd -- ný král.
+
+\score
+office-part: hymnus
+folio: 265v
+editorial-mode:
+rubric: Ymna Veni creator spiritus
+cantus-id: 008407
+c3 % ?
+e f e d e f e h i h
+h e f h ii hh i j i
+h i j h g f e h i e f h
+g h f e d f fgf e de ee ::
+Pří -- diž stvo -- ři -- te -- li Du -- še sva -- tý
+nav -- štiev mys -- li všech tvých zvo -- le -- ných
+a ra -- čiž na -- pl -- ni -- ti svrch -- ní mi -- los -- tí
+srd -- ce kte -- réž si rá -- čil stvo -- ři -- ti.
+
+\score
+office-part: antiphona
+folio: 266r
+editorial-mode:
+editorial-differentia:
+rubric: An. ad Magnificat Hodie completi sunt
+cantus-id: 003096
+f3 % ?
+e ef f h h h g fh fe hj ij hi ij hg fe fi hg f ff
+c4 % ?
+dh!j hg gh hg gf gh hih d f d dg!h f fe d fe dc c
+cd f fe dc d f gf ed fe d d
+dh!j h hg gh hg h ji hj hh
+h g h g f f f gh fe d d
+fe d e f ghg h f g fe d fe dc c
+c d fg fe g h fe dc dg fe d dd ::
+Dneš -- ní den na -- pl -- ni -- li sú se dno -- vé slav -- ní let -- nic al -- le -- lu -- ja
+Dneš -- ní -- ho dne duch sva -- tý v_oh -- ni u -- čedl -- ni -- kuom se u -- ká -- zal
+a dá -- va -- je jim dar Du -- cha sva -- té -- ho
+po -- slal jest je na veš -- ke -- ren svět
+A -- by ká -- za -- li i ta -- ké svěd -- či -- li
+Ktož by u -- vě -- řil a s_dob -- rú vo -- lí po -- křtil se
+ten za -- jis -- té spa -- sen bu -- de Al -- le -- lu -- ja.
+
+h h g f gh gFEDD ::
+\l A a g f ga gfed
+
+\markup
+(responsorium) Svrchované a slavné Trojici jednomu Bohu...
+(pravděpodobně CANTUS 007718)
+
+\score
+office-part: hymnus
+folio: 267r
+editorial-mode:
+editorial-differentia:
+cantus-id: 008358
+c4
+hGFE f d f f h fg g :
+hGFef f h f hh f g g :
+h i j h g g f e :
+f g ff h h j hi hh ::
+O svět -- lo Tro -- ji -- ce sva -- té
+prv -- ní -- mu jed -- na pod -- sta -- ta % ? "prvnímu" jsem bezpečně nedešifroval, možná to je něco úplně jiného
+již slun -- ce schá -- zí hor -- kos -- ti
+daj srd -- cím svět -- lo mi -- los -- ti.
+
+\markup
+(responsorium) Clověk jedne učinil jest večeři velikú...
+
+\score
+office-part: hymnus
+folio: 268v
+editorial-mode:
+editorial-differentia:
+cantus-id: 830393
+f g f e f f gi i :
+i j k ji j ij ih :
+g g h j i h g h h :
+h j g f g g hg@e :
+g g g e f h h f h j g hg fe de ee ::
+Zpie -- vaj ja -- zyk té taj -- nos -- ti
+tě -- la Kris -- tu svá -- tos -- ti
+i kr -- vi je -- ho tak pře -- dra -- hé
+jíž za li -- di ne -- zdra -- vé
+pro -- lil k_zdra -- ví i vy -- pla -- til
+ten dáv -- ný dluh za -- pla -- til.
+
+\score
+office-part: hymnus
+folio: 269v
+editorial-mode:
+editorial-differentia:
+cantus-id: 008390
+d f f g h gh gj jj
+k j i h j j g h g gh
+e g g h i hi hg h i k
+j i k k g h gh fED
+g!hi gFED g g!hih gf ef ff ::
+Sva -- tých za -- slú -- že -- ní slav -- né
+ra -- do -- vá -- ní zpie -- vaj -- me spo -- leč -- ně
+jich skut -- ky sta -- teč -- né vy -- zná -- vaj -- me
+smě -- le slav -- ná jich ví -- těz -- ství
+rod sva -- tých vy -- pra -- vi -- ti.
+
+\markup
+Tato ymna o mučedlnících božích pod touž notú jako svrchní zpievá se:
+Svatých mučedlnikuov přeslavné radosti /
+zpievajme vesele /
+i jich udatenství neb žádá mysli celé /
+slavná jich vítězství /
+boj svatý vypraviti.
+...
+
+(vypadá to na jiný překlad téhož hymnu.)
+
+Piesnička o svatých:
+S svatými se radujme s nimi Boha chvalme /
+z milosti daruov nevymluvných lidem připravených.
+...
