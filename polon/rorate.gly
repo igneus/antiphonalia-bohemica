@@ -1,0 +1,29 @@
+\header
+title: [Roráte]
+
+\markup
+(Přepsány jen jednotlivé zpěvy, žánrově se hodící mezi repertoár oficia.)
+
+\score
+office-part: antiphona
+folio: 61r
+editorial-mode: 5
+rubric: Antifona v Advent před Roráte. Lukáš vi. kap. Izajáš vii. kap.
+cb3
+d f g h h i k j ih hh d h i ()
+h g f e d e f g f e d dd ()
+Aj An -- jel Pá -- ně Ma -- ri -- i Pan -- ně zvěs -- to -- val /
+to což I -- za -- y -- áš zdáv -- na před -- po -- ví -- dal /
+d f h h i h hh ()
+h h i i h f g f e d c e f d d :
+a řka: Poč -- neš v_ži -- vo -- tě /
+i po -- ro -- díš Sy -- na je -- hož jmé -- no na -- zu -- veš Je -- žíš !/
+h f h h k j i h i h hh ()
+d g f g h g h h i i h g f g h g hh ()
+d e f g f ed dd ::
+onť bu -- de ve -- li -- ký a vel -- mi slav -- ný /
+a Syn nej -- vyš -- ší -- ho Stvo -- ři -- te -- le Bo -- ha vše -- mo -- hou -- cí -- ho /
+hod -- ně tak slou -- ti bu -- de.
+
+\markup
+(Po antifoně před roráte klade veršík a oraci.)
