@@ -5,6 +5,7 @@ mainly antiphons, from sources of all epochs when Czech vernacular plainchant wa
 
 Main purpose of the corpus is collecting comparative material for work on the
 [In adiutorium][ia] project.
+Therefore the main interest is in antiphons, other chants are usually not transcribed.
 
 [gly][gly] is used for chant notation, [LilyPond][lily] for modern notation.
 

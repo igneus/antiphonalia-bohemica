@@ -1,0 +1,38 @@
+\header
+title: Začíná se jitřné na den slavný Božího Narození
+
+\markup
+Spomoc naše ve jménu Páně /\\
+\textit{Chorus.} Kterýž učinil nebe i zemi.\\
+Pane Bože rty mé otevři /\\
+\textit{Chorus.} A ústa má budou vypravovati chválu tvou.\\
+Pane Bože ku pomoci mé pohled /\\
+\textit{Chorus.} Pane ku pomoci mé pospěš.\\
+Sláva Otci i Synu / i Duchu svatému: Jakož byla na počátku i nyní i vždycky / i na věky věkův / Amen. Alleluia.
+
+\score
+office-part: invitatorium
+folio: 64 decies r
+cantus-id: 001055
+fb2
+(df gi) gg ()
+g i g h i j i h g hh ()
+h h g h f e f gg ::
+Kri -- stus /
+zdáv -- na žá -- da -- ný od ot -- cuov sva -- tých /
+na -- ro -- di -- ti se rá -- čil nám.
+
+d e f g g g h g h g f e ff
+Pro -- tož všic -- kni vděč -- nost u -- ka -- zu -- jíc sr -- deč -- nou
+
+\markup
+Pokračuje celé Venite, prokládané písničkami.
+
+\vspace{1cm}
+Hymna jako Veni redemptor.
+
+{\footnotesize Pravděpodobně hymnus Presaepe iam fulget.
+Rubrika, že se první sloka zpívá dvakrát, po ní hned doxologie.}
+
+Jesle tvé jsou okrášlené / novým světlem osvícené /
+žádná tma nebude překážeti / víra pravá / mát to utvrzovati.
